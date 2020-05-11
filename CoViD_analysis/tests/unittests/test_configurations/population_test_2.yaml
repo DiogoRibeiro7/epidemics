@@ -1,0 +1,9 @@
+training:
+  generations: 10
+  survivors: 10
+  offsprings: 5
+  selection_methods: "best"
+  preserve_parents: False
+
+genes:
+  filename: "analysis/parameters/SEIR_italy.yaml"
